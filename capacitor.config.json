@@ -1,0 +1,8 @@
+{
+  "appId": "com.m4u.dating",
+  "appName": "M4U",
+  "webDir": "www",
+  "backgroundColor": "#ff2d6f",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}
